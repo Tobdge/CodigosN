@@ -8,7 +8,7 @@ class Factorial:
             resultado *= i
         return resultado
 
-# Entrada similar
+
 n = int(input("Número: "))
 f = Factorial(n)
 print("Factorial:", f.calcular())
