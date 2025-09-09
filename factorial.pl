@@ -1,5 +1,4 @@
 factorial_de(0, 1).
-
 factorial_de(Numero, Factorial) :-
     Numero > 0,
     Numero1 is Numero - 1,
